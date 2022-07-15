@@ -13,6 +13,7 @@
         <module>config</module>
         <module>eureka</module>
         <module>gateway</module>
+        <module>service</module>
     </modules>
 
     <!--spring Boot 环境 -->
